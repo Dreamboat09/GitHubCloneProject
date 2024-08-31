@@ -1,2 +1,1 @@
-# GitHubCloneProject
-c2 first project
+This is the description of my repo
