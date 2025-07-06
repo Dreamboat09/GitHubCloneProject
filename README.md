@@ -1,2 +1,1 @@
-# GitHubCloneProject
-alx local repo project
+This is the description of my repo
